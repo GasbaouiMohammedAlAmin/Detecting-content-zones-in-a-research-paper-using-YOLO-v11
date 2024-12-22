@@ -23,6 +23,12 @@ The workflow includes the following steps:
 
 After approximately one hour of training, the results of the model are summarized in the following table:
 
+![](metrics_evaluation.JPG) 
+###  output result zone detection
+![](output_result.png)
+
+### video explanation
+
 
 
 
