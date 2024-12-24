@@ -28,6 +28,7 @@ After approximately one hour of training, the results of the model are summarize
 ![](output_result.png)
 
 ### video explanation
+https://youtu.be/vYK3NcXeZqA
 
 
 
